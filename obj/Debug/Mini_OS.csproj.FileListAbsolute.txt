@@ -1,0 +1,11 @@
+C:\Users\asus\documents\visual studio 2013\Projects\Mini-OS\Mini-OS\bin\Debug\Mini-OS.exe.config
+C:\Users\asus\documents\visual studio 2013\Projects\Mini-OS\Mini-OS\bin\Debug\Mini-OS.exe
+C:\Users\asus\documents\visual studio 2013\Projects\Mini-OS\Mini-OS\bin\Debug\Mini-OS.pdb
+C:\Users\asus\documents\visual studio 2013\Projects\Mini-OS\Mini-OS\obj\Debug\Mini_OS.Admin.resources
+C:\Users\asus\documents\visual studio 2013\Projects\Mini-OS\Mini-OS\obj\Debug\Mini_OS.Form1.resources
+C:\Users\asus\documents\visual studio 2013\Projects\Mini-OS\Mini-OS\obj\Debug\Mini_OS.LoginPage.resources
+C:\Users\asus\documents\visual studio 2013\Projects\Mini-OS\Mini-OS\obj\Debug\Mini_OS.Properties.Resources.resources
+C:\Users\asus\documents\visual studio 2013\Projects\Mini-OS\Mini-OS\obj\Debug\Mini_OS.ResturantWin.resources
+C:\Users\asus\documents\visual studio 2013\Projects\Mini-OS\Mini-OS\obj\Debug\Mini_OS.csproj.GenerateResource.Cache
+C:\Users\asus\documents\visual studio 2013\Projects\Mini-OS\Mini-OS\obj\Debug\Mini-OS.exe
+C:\Users\asus\documents\visual studio 2013\Projects\Mini-OS\Mini-OS\obj\Debug\Mini-OS.pdb
